@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi!👋
 
-### Welcome! I'm currently learning backend develop! 
+### Currently devoted in backend dev.
+### MS'stu in HUST_EIC.
 
-# NeverStop!
 ![CHANXIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHANXINx)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANXINx)
 
 
