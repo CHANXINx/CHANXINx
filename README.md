@@ -1,7 +1,7 @@
 # Hi!👋
 
 <div align="center">
-[![](assets/pic1.jpg)](https://github.com/CHANXINx)
+![CHANXIN](assets/pic1.jpg)
 </div>
 
 ### 🧑🏻‍💻 I’m currently learning backend dev.
