@@ -4,8 +4,8 @@
 ![pic1](https://github.com/user-attachments/assets/363ad215-baff-49cc-88bb-42f9ed0303e0)
 
 
-### 🧑🏻‍💻 I’m currently learning backend dev.
-### 🧑🏻‍🎓 I’m currently studying for my master's degree at HUST.
+### 🙋🏻‍♂️ I’m currently learning backend dev.
+### 🎓 I’m currently studying for my master's degree at HUST.
 
 #
 <p align="center">
