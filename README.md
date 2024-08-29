@@ -3,7 +3,8 @@
 ### Currently devoted in backend dev.
 ### MS'stu in HUST_EIC.
 
-<hr style="border: 0; border-top: 1px solid #000; width: 50%; margin: 0 auto;">
+<hr style="border: 0.5px solid #ccc; margin: 20px 0;">
+
 <p align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CHANXINx&show_icons=true&count_private=true" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANXINx&layout=compact" />&nbsp;&nbsp;
