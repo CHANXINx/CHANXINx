@@ -2,8 +2,8 @@
 
 ### Currently devoted in backend dev.
 ### MS'stu in HUST_EIC.
-<hr>
-<p>
+
+<p align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CHANXINx&show_icons=true&count_private=true" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANXINx&layout=compact" />&nbsp;&nbsp;
 </p>
