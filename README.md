@@ -1,7 +1,8 @@
 # Hi!👋
 
 <div align="center">
-![CHANXIN](assets/pic1.jpg)
+![pic1](https://github.com/user-attachments/assets/363ad215-baff-49cc-88bb-42f9ed0303e0)
+![pic1](https://github.com/user-attachments/assets/6aa1c38a-7569-48d2-9271-948d4bd59613)
 </div>
 
 ### 🧑🏻‍💻 I’m currently learning backend dev.
