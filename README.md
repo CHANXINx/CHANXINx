@@ -1,6 +1,6 @@
 # Hi!👋
 <div align="center">
-(assets/pic1.jpg)(https://github.com/CHANXINx)
+[(assets/pic1.jpg)](https://github.com/CHANXINx)
 
 ### 🧑🏻‍💻 I’m currently learning backend dev.
 ### 🧑🏻‍🎓 I’m currently studying for my master's degree at HUST.
