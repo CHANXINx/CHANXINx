@@ -3,6 +3,7 @@
 ### Currently devoted in backend dev.
 ### MS'stu in HUST_EIC.
 
+<hr style="border: 0; border-top: 1px solid #000; width: 50%; margin: 0 auto;">
 <p align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CHANXINx&show_icons=true&count_private=true" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANXINx&layout=compact" />&nbsp;&nbsp;
@@ -26,4 +27,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+.custom-hr {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0;
+  border-top: 1px solid #333333;
+}
 -->
