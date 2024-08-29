@@ -3,9 +3,10 @@
 ### Currently devoted in backend dev.
 ### MS'stu in HUST_EIC.
 
-![CHANXIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHANXINx)                                                                                                
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANXINx)
-
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CHANXINx&show_icons=true&count_private=true" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANXINx&layout=compact" />&nbsp;&nbsp;
+</p>
 
 
 ![CHANXIN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHANXINx&theme=react)
