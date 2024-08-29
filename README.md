@@ -1,10 +1,9 @@
 # Hi!👋
 
-### Currently devoted in backend dev.
-### MS'stu in HUST_EIC.
+### 🧑🏻‍💻 I’m currently learning backend dev.
+### 🧑🏻‍🎓 I’m currently studying for my master's degree at HUST.
 
-<hr style="border: 0.5px solid #ccc; margin: 20px 0;">
-
+#
 <p align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CHANXINx&show_icons=true&count_private=true" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANXINx&layout=compact" />&nbsp;&nbsp;
